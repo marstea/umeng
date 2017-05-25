@@ -98,4 +98,4 @@ IOS用法:
 
 程序不处理异常,可根据业务情况自行处理, 若抛出异常,可通过 `e->getHttpCode()` 获取http状态码, 通过 `e->getErrCode()`获取umeng返回的错误码.
 使用过程中若出错,可自行查看Laravel或Lumen的Log日志# umeng
-# yyyyyy
+
