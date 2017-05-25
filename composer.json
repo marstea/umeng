@@ -1,12 +1,12 @@
 {
-    "name": "blutea/umeng",
+    "name": "umengpusher/umeng",
     "description": "umeng for laravel",
     "keywords": [
         "laravel",
         "lumen",
         "umeng"
     ],
-    "homepage": "https://github.com/marstea/mengmeng",
+    "homepage": "https://github.com/marstea/umeng",
     "license": "MIT",
     "authors": [
         {
